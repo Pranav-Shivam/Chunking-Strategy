@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Document Chunking API
 
 A FastAPI service that processes PDF documents and splits them into semantic chunks using advanced NLP techniques.
@@ -102,3 +103,6 @@ The chunking pipeline can be configured by modifying the parameters in `main.py`
 - `max_tokens`: Maximum tokens per chunk (default: 1000)
 - `overlap_percentage`: Overlap between consecutive chunks (default: 0.15)
 - `semantic_model`: Sentence transformer model (default: 'all-MiniLM-L6-v2') 
+=======
+# Chunking-Strategy
+>>>>>>> 68566f7c4a283c145b0e654b9add763e0c5fcc87
