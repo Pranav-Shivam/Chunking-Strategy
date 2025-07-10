@@ -198,7 +198,6 @@ transformers_cache/
 storage/
 *.pdf
 *.json
-*.txt
 *.doc
 *.docx
 *.xlsx
